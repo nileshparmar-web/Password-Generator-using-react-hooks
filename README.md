@@ -23,4 +23,4 @@ JavaScript (ES6+)
 
 CSS for styling
 
-![App Screenshot](./c:\Users\HP\OneDrive\NOTES\OneDrive\Pictures\Screenshots\password-generator.png)
+![App Screenshot](./password-generator.png)
